@@ -412,15 +412,15 @@ const MODE_NORMAL = 1, MODE_ENDLESS = 2, MODE_PRACTICE = 3;
         }
 
         if (mode === MODE_ENDLESS) {
-            if (score <= 5) return '人间至屑';
-            if (score <= 8) return '斯国一(迫真)';
-            if (score <= 10)  return 'sodayo';
-            return '压力马斯内';
+            if (score <= 5) return '柒乐yyds';
+            if (score <= 8) return '柒乐yyds';
+            if (score <= 10)  return '柒乐yyds';
+            return '唐述才SB';
         } else {
-            if (score <= 49) return '人间至屑';
-            if (score <= 99) return '斯国一(迫真)';
-            if (score <= 149) return 'sodayo';
-            return '压力马斯内';
+            if (score <= 49) return '唐述才SB';
+            if (score <= 99) return '唐述才SB';
+            if (score <= 149) return '唐述才SB';
+            return '唐述才SB';
         }
     }
 
